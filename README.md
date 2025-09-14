@@ -35,7 +35,7 @@ A Systematic Evaluation Framework For Fair Assessment of Association Prediction 
 ## 📥 Data Preparation
 The datasets used in this project are not included in the repository due to their size. Please follow the instructions below to download and prepare the data.
 
-- Download the raw and processed data files from the [here](https://doi.org/10.6084/m9.figshare.30119653.v1).
+- Download the raw and processed data files from the [here](https://doi.org/10.6084/m9.figshare.30122011.v1).
 - Unzip the downloaded file and place the `data_repository` folder in the `src/netbalance/data_repository/` path.
 
 ## 📖 Tutorials  
